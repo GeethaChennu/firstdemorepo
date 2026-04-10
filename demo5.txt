@@ -5,3 +5,5 @@ Push and pull through master to branch and branch to master
 I am in master and now want to updatae and change the file in branchdemo
 
 Now pushed to git hub and now want to pull the data to the git by branch and pulling to branch
+
+Now merge it with master and pull from master to master git
