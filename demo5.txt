@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hi Push and pull through master to branch and branch to master
+=======
+
+ pull through master to branch and branch to master
+>>>>>>> 57a9f06d4c1d9b20f71aff43a9c36d19102e65f8
