@@ -1,1 +1,1 @@
-Hi Push and pull through master to branch and branch to master
+ pull through master to branch and branch to master
