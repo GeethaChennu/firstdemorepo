@@ -1,4 +1,3 @@
 
-Hi, 
-
+Hi All,
 Push and pull through master to branch and branch to master
